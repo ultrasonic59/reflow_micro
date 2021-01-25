@@ -87,8 +87,8 @@ Inspect result and fix defects with soldering iron if needed.
 
 <img src="images/pcb_bottom.jpg" width="60%" alt="PCB bottom">
 
-Cleanup PCB from flux and place sticky aluminum type on area behind heater.
-Also place any insulating type on small area behind display.
+Cleanup PCB from flux, mount LCD and place sticky aluminum type on area
+behind heater.
 
 <img src="images/pcb_top.jpg" width="60%" alt="PCB top">
 
